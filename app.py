@@ -2,7 +2,6 @@ import os
 import time
 import docx
 import pypdf
-from markdown_it import MarkdownIt
 from openai import OpenAI
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
